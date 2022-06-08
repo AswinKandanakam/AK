@@ -1,2 +1,2 @@
 This is edited by AK# AK
-edited from goit hub
+edited from git hub
